@@ -1,1 +1,2 @@
-/atlas/* https://atlas-assets.czzor.com/atlas/:splat 200
+/atlas/img/*    https://atlas-assets.czzor.com/atlas/img/:splat    302
+/atlas/audio/*  https://atlas-assets.czzor.com/atlas/audio/:splat  302
