@@ -1,3 +1,5 @@
-/atlas/index.json  https://atlas-assets.czzor.com/atlas/index.json  302
-/atlas/img/*       https://atlas-assets.czzor.com/atlas/img/:splat        302
-/atlas/audio/*     https://atlas-assets.czzor.com/atlas/audio/:splat      302
+/atlas/index.json   https://atlas-assets.czzor.com/atlas/index.json   302
+/atlas/entries/*    https://atlas-assets.czzor.com/atlas/entries/:splat 302
+/atlas/thumb/*      https://atlas-assets.czzor.com/atlas/thumb/:splat   302
+/atlas/img/*        https://atlas-assets.czzor.com/atlas/img/:splat     302
+/atlas/audio/*      https://atlas-assets.czzor.com/atlas/audio/:splat   302
